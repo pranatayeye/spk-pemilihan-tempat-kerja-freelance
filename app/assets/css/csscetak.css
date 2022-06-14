@@ -1,0 +1,16 @@
+body{
+    background: white !important;
+}
+
+#cetak{
+    background: white !important; 
+    height: 100vh !important;
+}
+
+.card-footer{
+    display: none !important;
+}
+
+img[alt="www.000webhost.com"]{
+    display:none;
+}
